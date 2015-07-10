@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="movieClips/popupWin/w_files/splash/splash1SubAnimationSplash" itemID="559edf92-00000464" lastModified="1436477320" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="splash1SubAnimationSplash">
+      <layers>
+        <DOMLayer name="splashSubSplash1" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/splash/splashSubSplash1" centerPoint3DX="17.3" centerPoint3DY="35.95">
+                  <matrix>
+                    <Matrix a="0.668014526367188" d="0.668014526367188" ty="20.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.8" y="22.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="splashSubSplash1" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/splash/splashSubSplash1" centerPoint3DX="49" centerPoint3DY="14.95">
+                  <matrix>
+                    <Matrix a="0.671173095703125" d="0.671173095703125" tx="31.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.85" y="22.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="splashSubSplash1" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/splash/splashSubSplash1" selected="true" centerPoint3DX="29.25" centerPoint3DY="26.45">
+                  <matrix>
+                    <Matrix tx="3.4" ty="4.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.85" y="22.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

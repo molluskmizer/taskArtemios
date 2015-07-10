@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="movieClips/popupWin/views/stars/starsProgres" itemID="559eda36-0000041a" lastModified="1436477352" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="starsProgres" currentFrame="3">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar1" name="star_1" centerPoint3DX="49.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar3" name="star_3" centerPoint3DX="202.5" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="153"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar1" name="star_1" centerPoint3DX="79" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar3" name="star_3" centerPoint3DX="231.5" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="182"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar1" name="star_1" centerPoint3DX="50" centerPoint3DY="50">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="movieClips/popupWin/w_files/stars/animation/animationStar2" name="star_2" centerPoint3DX="141" centerPoint3DY="58">
+                  <matrix>
+                    <Matrix tx="80" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

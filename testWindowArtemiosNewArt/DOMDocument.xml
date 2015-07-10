@@ -1,0 +1,110 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#CCCCCC" width="702" height="667" currentTimeline="1" xflVersion="2.5" creatorInfo="Adobe Flash Professional CC" platform="Windows" versionInfo="Saved by Adobe Flash Windows 14.2 build 20" majorVersion="14" minorVersion="2" buildNumber="20" rulerVisible="true" snapAlign="false" objectsSnapTo="false" timelineLabelWidth="274" viewAngle3D="67.2027379140906" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+     <folders>
+          <DOMFolderItem name="fonts" itemID="559ee386-000004a5"/>
+          <DOMFolderItem name="graphics" itemID="559ec8cd-0000005e"/>
+          <DOMFolderItem name="graphics/popupWin" itemID="559ed315-000003cd"/>
+          <DOMFolderItem name="graphics/popupWin/buttons" itemID="559ed254-000001c6"/>
+          <DOMFolderItem name="graphics/popupWin/buttons/buttonClose" itemID="559ecf00-00000190"/>
+          <DOMFolderItem name="graphics/popupWin/buttons/buttonNext" itemID="559ed157-000001b0"/>
+          <DOMFolderItem name="graphics/popupWin/currency" itemID="559ee0ba-0000047b"/>
+          <DOMFolderItem name="graphics/popupWin/popupWinBg" itemID="559ed467-000003d4"/>
+          <DOMFolderItem name="graphics/popupWin/popupWinStars" itemID="559ed4a6-000003da"/>
+          <DOMFolderItem name="movieClips" itemID="559ec783-00000056"/>
+          <DOMFolderItem name="movieClips/popupWin" itemID="559edbc4-0000042f"/>
+          <DOMFolderItem name="movieClips/popupWin/views" itemID="559ed9a8-00000418"/>
+          <DOMFolderItem name="movieClips/popupWin/views/buttons" itemID="559eda45-0000041f"/>
+          <DOMFolderItem name="movieClips/popupWin/views/stars" itemID="559ee0ef-00000485"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files" itemID="559ec964-0000006e"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files/friendsPanel" itemID="559ee02f-00000475"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files/splash" itemID="559ede04-00000455"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files/splash/animation" itemID="559ede8f-0000045e"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files/stars" itemID="559ed949-00000410"/>
+          <DOMFolderItem name="movieClips/popupWin/w_files/stars/animation" itemID="559edc35-00000437"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="fonts/FontFT" itemID="52c14b52-00000262" font="Big_Bottom_Cartoon" size="0" id="1" sourceLastImported="1388399442" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgBear.png" itemID="559efb79-00000f89" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgBear.png" sourceLastImported="1436481485" externalFileCRC32="2030847318" externalFileSize="23947" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/popupWinBg/bgBear.png" bitmapDataHRef="M 41 1436481452.dat" frameRight="4360" frameBottom="3600"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgBear1.png" itemID="559ee2eb-0000049d" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgBear1.png" sourceLastImported="1436476139" allowSmoothing="true" originalCompressionType="lossless" quality="100" href="graphics/popupWin/popupWinBg/bgBear1.png" bitmapDataHRef="M 58 1389862405.dat" frameRight="3800" frameBottom="3220"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgLabel.png" itemID="559ef5cf-00000ccb" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgLabel.png" sourceLastImported="1436480975" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/popupWinBg/bgLabel.png" bitmapDataHRef="M 35 1436478614.dat" frameRight="10700" frameBottom="2800"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgPopup1.png" itemID="559eeba3-000009af" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgPopup1.png" sourceLastImported="1436478371" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/popupWinBg/bgPopup1.png" bitmapDataHRef="M 33 1436478354.dat" frameRight="10140" frameBottom="12340"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgPopup2.png" itemID="559eea3d-00000991" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgPopup2.png" sourceLastImported="1436478013" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/popupWinBg/bgPopup2.png" bitmapDataHRef="M 32 1436477981.dat" frameRight="10700" frameBottom="12800"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinBg/bgTop.png" itemID="559efb63-00000f88" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinBg/bgTop.png" sourceLastImported="1436482403" externalFileCRC32="1019501909" externalFileSize="27254" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/popupWinBg/bgTop.png" bitmapDataHRef="M 42 1436482258.dat" frameRight="3180" frameBottom="4940"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonClose/buttonCloseBg.png" itemID="559ef394-00000caa" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonClose/buttonCloseBg.png" sourceLastImported="1436480404" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonClose/buttonCloseBg.png" bitmapDataHRef="M 37 1436480113.dat" frameRight="1040" frameBottom="1040"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonClose/buttonCloseDown.png" itemID="559ef39c-00000cab" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonClose/buttonCloseDown.png" sourceLastImported="1436480412" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonClose/buttonCloseDown.png" bitmapDataHRef="M 39 1436480356.dat" frameRight="600" frameBottom="580"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonClose/buttonCloseOver.png" itemID="559ef3a4-00000cac" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonClose/buttonCloseOver.png" sourceLastImported="1436480420" externalFileCRC32="3527718825" externalFileSize="16839" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonClose/buttonCloseOver.png" bitmapDataHRef="M 38 1436480356.dat" frameRight="600" frameBottom="580"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonClose/buttonCloseUp.png" itemID="559ef40f-00000cb2" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonClose/buttonCloseUp.png" sourceLastImported="1436480527" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonClose/buttonCloseUp.png" bitmapDataHRef="M 40 1436480503.dat" frameRight="600" frameBottom="580"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonNext/buttonNextDown.png" itemID="559efded-00000fca" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonNext/buttonNextDown.png" sourceLastImported="1436483053" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonNext/buttonNextDown.png" bitmapDataHRef="M 45 1436482984.dat" frameRight="5640" frameBottom="1300"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonNext/buttonNextOver.png" itemID="559efde8-00000fc9" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonNext/buttonNextOver.png" sourceLastImported="1436483048" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonNext/buttonNextOver.png" bitmapDataHRef="M 44 1436482984.dat" frameRight="6340" frameBottom="1440"/>
+          <DOMBitmapItem name="graphics/popupWin/buttons/buttonNext/buttonNextUp.png" itemID="559efde0-00000fc7" sourceExternalFilepath="./LIBRARY/graphics/popupWin/buttons/buttonNext/buttonNextUp.png" sourceLastImported="1436483040" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/buttons/buttonNext/buttonNextUp.png" bitmapDataHRef="M 43 1436482984.dat" frameRight="6020" frameBottom="1380"/>
+          <DOMBitmapItem name="graphics/popupWin/currency/currency.png" itemID="559eefbb-000009ed" sourceExternalFilepath="./LIBRARY/graphics/popupWin/currency/currency.png" sourceLastImported="1436479419" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="graphics/popupWin/currency/currency.png" bitmapDataHRef="M 36 1436479349.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinStars/star1.png" itemID="559ee103-00000486" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinStars/star1.png" sourceLastImported="1436475651" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/popupWin/popupWinStars/star1.png" bitmapDataHRef="M 30 1392120753.dat" frameRight="2440" frameBottom="2360"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinStars/star2.png" itemID="559ee10f-00000488" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinStars/star2.png" sourceLastImported="1436475663" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/popupWin/popupWinStars/star2.png" bitmapDataHRef="M 29 1392120725.dat" frameRight="1960" frameBottom="2000"/>
+          <DOMBitmapItem name="graphics/popupWin/popupWinStars/star3.png" itemID="559ee108-00000487" sourceExternalFilepath="./LIBRARY/graphics/popupWin/popupWinStars/star3.png" sourceLastImported="1436475656" allowSmoothing="true" originalCompressionType="lossless" quality="90" href="graphics/popupWin/popupWinStars/star3.png" bitmapDataHRef="M 28 1392120725.dat" frameRight="1980" frameBottom="2000"/>
+     </media>
+     <symbols>
+          <Include href="movieClips/popupWin/popupWin.xml" itemID="559edb99-00000429" lastModified="1436483424"/>
+          <Include href="movieClips/popupWin/views/buttons/buttonClose.xml" loadImmediate="false" itemID="559eda5a-00000422" lastModified="1436480908"/>
+          <Include href="movieClips/popupWin/views/buttons/buttonNext.xml" loadImmediate="false" itemID="559eda61-00000424" lastModified="1436483305"/>
+          <Include href="movieClips/popupWin/views/stars/starsProgres.xml" loadImmediate="false" itemID="559eda36-0000041a" lastModified="1436477352"/>
+          <Include href="movieClips/popupWin/w_files/friendsPanel/friendsPanel.xml" loadImmediate="false" itemID="559edc04-00000431" lastModified="1436477348"/>
+          <Include href="movieClips/popupWin/w_files/splash/animation/animationSplash.xml" loadImmediate="false" itemID="559edded-00000451" lastModified="1436477310"/>
+          <Include href="movieClips/popupWin/w_files/splash/flash1SubSplash.xml" loadImmediate="false" itemID="559edf41-00000461" lastModified="1436477316"/>
+          <Include href="movieClips/popupWin/w_files/splash/flashSubFlash1.xml" loadImmediate="false" itemID="559edf04-0000045f" lastModified="1436477318"/>
+          <Include href="movieClips/popupWin/w_files/splash/splash1SubAnimationSplash.xml" loadImmediate="false" itemID="559edf92-00000464" lastModified="1436477320"/>
+          <Include href="movieClips/popupWin/w_files/splash/splashSubSplash1.xml" loadImmediate="false" itemID="559edf5d-00000462" lastModified="1436477323"/>
+          <Include href="movieClips/popupWin/w_files/stars/animation/animationStar1.xml" loadImmediate="false" itemID="559edc89-00000445" lastModified="1436477337"/>
+          <Include href="movieClips/popupWin/w_files/stars/animation/animationStar2.xml" loadImmediate="false" itemID="559edc90-00000446" lastModified="1436477335"/>
+          <Include href="movieClips/popupWin/w_files/stars/animation/animationStar3.xml" loadImmediate="false" itemID="559edc95-00000447" lastModified="1436477331"/>
+          <Include href="movieClips/popupWin/w_files/stars/glow.xml" loadImmediate="false" itemID="559ede77-00000459" lastModified="1436477338"/>
+          <Include href="movieClips/popupWin/w_files/stars/star1.xml" loadImmediate="false" itemID="559edc4e-00000439" lastModified="1436477339"/>
+          <Include href="movieClips/popupWin/w_files/stars/star2.xml" loadImmediate="false" itemID="559edc56-0000043b" lastModified="1436477340"/>
+          <Include href="movieClips/popupWin/w_files/stars/star3.xml" loadImmediate="false" itemID="559edc51-0000043a" lastModified="1436477346"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1">
+               <layers>
+                    <DOMLayer name="next target: 234 555" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="movieClips/popupWin/popupWin" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="366.65" ty="367.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-2.75" y="-18.65"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="240756" publishTime="1436483380"/>
+          <PublishItem publishSize="250361" publishTime="1436479386"/>
+          <PublishItem publishSize="316053" publishTime="1436473282"/>
+          <PublishItem publishSize="345735" publishTime="1401972648"/>
+          <PublishItem publishSize="345879" publishTime="1401440531"/>
+          <PublishItem publishSize="345880" publishTime="1401440437"/>
+          <PublishItem publishSize="345879" publishTime="1399548596"/>
+          <PublishItem publishSize="734396" publishTime="1399547291"/>
+          <PublishItem publishSize="734396" publishTime="1399547287"/>
+          <PublishItem publishSize="406787" publishTime="1399542976"/>
+          <PublishItem publishSize="406787" publishTime="1399542973"/>
+          <PublishItem publishSize="372562" publishTime="1399542699"/>
+          <PublishItem publishSize="345879" publishTime="1399542649"/>
+          <PublishItem publishSize="345879" publishTime="1399541664"/>
+          <PublishItem publishSize="345879" publishTime="1399541293"/>
+          <PublishItem publishSize="745663" publishTime="1399299887"/>
+          <PublishItem publishSize="755557" publishTime="1396977405"/>
+          <PublishItem publishSize="755557" publishTime="1396975944"/>
+          <PublishItem publishSize="755551" publishTime="1396882288"/>
+          <PublishItem publishSize="755550" publishTime="1396882164"/>
+     </publishHistory>
+</DOMDocument>
